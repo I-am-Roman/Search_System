@@ -1,0 +1,5 @@
+﻿  search_server.cpp
+C:\Users\Нежнов\Desktop\Passion library 2\5. For Job\6. Course on С++\2. Projects\3. Search System\2. Search_System_with_multithreading\Search_System_with_multithreading\search_server.cpp(106,28): warning C4244: аргумент: преобразование "int64_t" в "const unsigned int", возможна потеря данных
+C:\Users\Нежнов\Desktop\Passion library 2\5. For Job\6. Course on С++\2. Projects\3. Search System\2. Search_System_with_multithreading\Search_System_with_multithreading\search_server.cpp(106,52): warning C4244: аргумент: преобразование "int64_t" в "const unsigned int", возможна потеря данных
+C:\Users\Нежнов\Desktop\Passion library 2\5. For Job\6. Course on С++\2. Projects\3. Search System\2. Search_System_with_multithreading\Search_System_with_multithreading\search_server.cpp(44): warning C4172: возвращение адреса локальной или временной переменной
+  Search_System_with_multithreading.vcxproj -> C:\Users\Нежнов\Desktop\Passion library 2\5. For Job\6. Course on С++\2. Projects\3. Search System\2. Search_System_with_multithreading\Debug\Search_System_with_multithreading.exe
